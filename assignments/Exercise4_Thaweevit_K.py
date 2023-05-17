@@ -1,4 +1,4 @@
-scoreFoundationEng = 70
+scoreFoundationEng = float(input('คะแนน Foundation English ='))
 scoreGeneralBusiness = 80.6
 scoreIntroComputerSys = 80
 scoreComputerProgram = 70
