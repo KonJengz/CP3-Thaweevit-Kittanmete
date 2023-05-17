@@ -1,2 +1,2 @@
 # CP3-Thaweevit-Kittanmete
-อร์สเรียน Python3
+คอร์สเรียน Python3
