@@ -1,19 +1,23 @@
+# login
 userNameInput = input("Username = ")
 passwordInput = input("Password = ")
 
 userName = "admin"
 password = "1234"
 
+# สินค้าทั้งหมด
 item1 = "รหัสสินค้า 001 : iPhone15"
 item2 = "รหัสสินค้า 002 : iPhone15 Pro"
 item3 = "รหัสสินค้า 003 : Samsung S23+"
 item4 = "รหัสสินค้า 004 : Samsung S23 Ultra"
 
+# ราคาของสินค้าทั้งหมด
 priceItem1 = 40000
 priceItem2 = 50000
 priceItem3 = 35000
 priceItem4 = 45000
 
+# เงื่อนไขของโปรแกรมสั่งซื้อสินค้า
 if userNameInput == userName and passwordInput == password:
     print("- - - - - - - - - - - - - - -")
     print("เลือกสินค้าที่ต้องการสั่งซื้ิอ")
