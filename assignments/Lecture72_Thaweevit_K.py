@@ -1,5 +1,4 @@
 menuList = []
-priceList = []
 while True:
     menuName = input("ใส่ชื่อเมนู: ")
     if (menuName.lower() == "exit"):
